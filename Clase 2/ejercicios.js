@@ -43,7 +43,6 @@ console.log(typeof textoJSON2);
 // TODO: modificar edad
 // TODO: stringificar y hacer console.log del resultado
 
-
 // ------------------------------------------------------------
 // EJERCICIO 3 — Detecta el JSON inválido
 // ------------------------------------------------------------
@@ -53,7 +52,5 @@ console.log(typeof textoJSON2);
 const a = "{'nombre': 'Ana'}";
 const b = '{"nombre": "Ana",}';
 const c = '{"nombre": "Ana"}';
-
-
 
 // TODO: recorre [a, b, c] y dime cuál es válido.
